@@ -1,0 +1,1910 @@
+{
+  "mentions": {
+    "1.4": [
+      0
+    ],
+    "1.13": [
+      6
+    ],
+    "1.39": [
+      30
+    ],
+    "1.34": [
+      25
+    ],
+    "1.36": [
+      27
+    ],
+    "1.46": [
+      36
+    ],
+    "1.57": [
+      46
+    ],
+    "1.67": [
+      55
+    ],
+    "1.76": [
+      62
+    ],
+    "1.109": [
+      89
+    ],
+    "1.82": [
+      66
+    ],
+    "1.88": [
+      72,
+      74,
+      75,
+      77,
+      78,
+      79,
+      80,
+      82,
+      83,
+      84,
+      85
+    ],
+    "1.89": [
+      72,
+      74,
+      75,
+      77,
+      78,
+      79,
+      80
+    ],
+    "1.100": [
+      83,
+      84,
+      85
+    ],
+    "1.103": [
+      84
+    ],
+    "1.126": [
+      102
+    ],
+    "1.136": [
+      111
+    ],
+    "1.139": [
+      112
+    ],
+    "1.147": [
+      118
+    ],
+    "1.151": [
+      121
+    ],
+    "1.158": [
+      126,
+      127
+    ],
+    "1.167": [
+      133
+    ],
+    "1.195": [
+      157
+    ],
+    "1.245": [
+      199
+    ],
+    "1.188": [
+      151
+    ],
+    "1.191": [
+      153
+    ],
+    "1.203": [
+      164,
+      165,
+      166,
+      167,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178
+    ],
+    "1.201": [
+      162
+    ],
+    "1.209": [
+      167
+    ],
+    "1.221": [
+      178
+    ],
+    "1.223": [
+      184,
+      183
+    ],
+    "1.202": [
+      163
+    ],
+    "1.224": [
+      183
+    ],
+    "1.234": [
+      191
+    ],
+    "1.256": [
+      209
+    ],
+    "1.270": [
+      224
+    ],
+    "1.295": [
+      244
+    ],
+    "1.286": [
+      237
+    ],
+    "1.294": [
+      243
+    ],
+    "1.298": [
+      247
+    ],
+    "1.309": [
+      255
+    ],
+    "1.324": [
+      266
+    ],
+    "1.321": [
+      263
+    ],
+    "1.348": [
+      288,
+      289
+    ],
+    "1.349": [
+      288
+    ],
+    "1.362": [
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305
+    ],
+    "1.368": [
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313
+    ],
+    "1.370": [
+      308,
+      309,
+      310,
+      311,
+      312,
+      313
+    ],
+    "1.379": [
+      315
+    ],
+    "1.388": [
+      322
+    ],
+    "1.384": [
+      318
+    ],
+    "1.204": [
+      164,
+      165,
+      166,
+      167
+    ],
+    "1.211": [
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178
+    ],
+    "1.6": [
+      2
+    ],
+    "1.11": [
+      7
+    ],
+    "1.16": [
+      9
+    ],
+    "1.44": [
+      35
+    ],
+    "1.47": [
+      37
+    ],
+    "1.56": [
+      44
+    ],
+    "1.60": [
+      49
+    ],
+    "1.72": [
+      58
+    ],
+    "1.74": [
+      60
+    ],
+    "1.71": [
+      57
+    ],
+    "1.79": [
+      64
+    ],
+    "1.83": [
+      69
+    ],
+    "1.85": [
+      68
+    ],
+    "1.106": [
+      87
+    ],
+    "1.111": [
+      91
+    ],
+    "1.92": [
+      75
+    ],
+    "1.97": [
+      80
+    ],
+    "1.101": [
+      83
+    ],
+    "1.104": [
+      85
+    ],
+    "1.113": [
+      93
+    ],
+    "1.115": [
+      94
+    ],
+    "1.128": [
+      104
+    ],
+    "1.130": [
+      106
+    ],
+    "1.143": [
+      116
+    ],
+    "1.149": [
+      120
+    ],
+    "1.152": [
+      122
+    ],
+    "1.155": [
+      124
+    ],
+    "1.164": [
+      130
+    ],
+    "1.168": [
+      134
+    ],
+    "1.172": [
+      137
+    ],
+    "1.175": [
+      140
+    ],
+    "1.178": [
+      142
+    ],
+    "1.181": [
+      145
+    ],
+    "1.184": [
+      147
+    ],
+    "1.187": [
+      150
+    ],
+    "1.199": [
+      161
+    ],
+    "1.214": [
+      172
+    ],
+    "1.217": [
+      175
+    ],
+    "1.228": [
+      187
+    ],
+    "1.239": [
+      196
+    ],
+    "1.244": [
+      200
+    ],
+    "1.252": [
+      206
+    ],
+    "1.254": [
+      208
+    ],
+    "1.258": [
+      211
+    ],
+    "1.264": [
+      217,
+      218
+    ],
+    "1.268": [
+      223
+    ],
+    "1.277": [
+      230
+    ],
+    "1.271": [
+      225
+    ],
+    "1.275": [
+      228
+    ],
+    "1.288": [
+      239
+    ],
+    "1.291": [
+      241
+    ],
+    "1.299": [
+      248
+    ],
+    "1.303": [
+      251
+    ],
+    "1.306": [
+      253
+    ],
+    "1.310": [
+      256
+    ],
+    "1.312": [
+      258
+    ],
+    "1.315": [
+      260
+    ],
+    "1.327": [
+      269
+    ],
+    "1.323": [
+      265
+    ],
+    "1.335": [
+      276
+    ],
+    "1.338": [
+      279
+    ],
+    "1.332": [
+      273
+    ],
+    "1.347": [
+      286
+    ],
+    "1.353": [
+      292
+    ],
+    "1.358": [
+      295
+    ],
+    "1.361": [
+      298
+    ],
+    "1.364": [
+      301,
+      302
+    ],
+    "1.367": [
+      305
+    ],
+    "1.374": [
+      311
+    ],
+    "1.376": [
+      313
+    ],
+    "1.381": [
+      317
+    ],
+    "1.387": [
+      321
+    ],
+    "1.391": [
+      324
+    ]
+  },
+  "m2a": {
+    "1.4": {
+      "i": 1,
+      "tag": "D",
+      "type": null,
+      "index": 2,
+      "parent": "1.2",
+      "is_own_head": true
+    },
+    "1.13": {
+      "i": 7,
+      "tag": "A",
+      "type": null,
+      "index": 4,
+      "parent": "1.7",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.39": {
+      "i": 136,
+      "tag": "A",
+      "type": null,
+      "index": 1,
+      "parent": "1.174",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.34": {
+      "i": 20,
+      "tag": "A",
+      "type": null,
+      "index": 4,
+      "parent": "1.28",
+      "require_annotation": true,
+      "is_head_of_parent": true,
+      "is_own_head": true
+    },
+    "1.36": {
+      "i": 21,
+      "tag": "A",
+      "type": null,
+      "index": 6,
+      "parent": "1.37",
+      "require_annotation": true,
+      "is_head_of_parent": true,
+      "is_own_head": true
+    },
+    "1.46": {
+      "i": 28,
+      "tag": "A",
+      "type": null,
+      "index": 1,
+      "parent": "1.45",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.57": {
+      "i": 31,
+      "tag": "A",
+      "type": null,
+      "index": 6,
+      "parent": "1.48",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.67": {
+      "i": 49,
+      "tag": "A",
+      "type": null,
+      "index": 6,
+      "parent": "1.70",
+      "require_annotation": true,
+      "is_head_of_parent": true,
+      "is_own_head": true
+    },
+    "1.76": {
+      "i": 51,
+      "tag": "A",
+      "type": null,
+      "index": 2,
+      "parent": "1.75",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.109": {
+      "i": 81,
+      "tag": "A",
+      "type": null,
+      "index": 1,
+      "parent": "1.112",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.82": {
+      "i": 59,
+      "tag": "A",
+      "type": null,
+      "index": 13,
+      "parent": "1.81",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.88": {
+      "i": 61,
+      "tag": "A",
+      "type": null,
+      "index": 17,
+      "parent": "1.87",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.89": {
+      "i": 288,
+      "tag": "A",
+      "type": "S",
+      "parent": "1.88",
+      "is_own_head": true,
+      "head": "1.92",
+      "index": 70
+    },
+    "1.100": {
+      "i": 288,
+      "tag": "A",
+      "type": "S",
+      "parent": "1.88",
+      "is_own_head": true,
+      "head": "1.101",
+      "index": 70
+    },
+    "1.103": {
+      "i": 76,
+      "tag": "E",
+      "type": null,
+      "index": 1,
+      "parent": "1.102",
+      "is_own_head": true
+    },
+    "1.126": {
+      "i": 92,
+      "tag": "A",
+      "type": null,
+      "index": 4,
+      "parent": "1.120",
+      "require_annotation": true,
+      "is_head_of_parent": true,
+      "is_own_head": true
+    },
+    "1.136": {
+      "i": 297,
+      "tag": "A",
+      "type": "S",
+      "index": 25,
+      "parent": "1.132",
+      "require_annotation": false,
+      "head": "1.136",
+      "is_head_of_parent": true
+    },
+    "1.139": {
+      "i": 104,
+      "tag": "R",
+      "type": null,
+      "index": 25,
+      "parent": "1.138",
+      "is_own_head": true
+    },
+    "1.147": {
+      "i": 126,
+      "tag": "A",
+      "type": null,
+      "index": 28,
+      "parent": "1.159",
+      "require_annotation": true,
+      "is_head_of_parent": true,
+      "is_own_head": true
+    },
+    "1.151": {
+      "i": 116,
+      "tag": "E",
+      "type": null,
+      "index": 1,
+      "parent": "1.150",
+      "is_own_head": true
+    },
+    "1.158": {
+      "i": 121,
+      "tag": "A",
+      "type": null,
+      "index": 4,
+      "parent": "1.156",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.167": {
+      "i": 129,
+      "tag": "A",
+      "type": null,
+      "index": 5,
+      "parent": "1.166",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.195": {
+      "i": 155,
+      "tag": "A",
+      "type": null,
+      "index": 1,
+      "parent": "1.194",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.245": {
+      "i": 198,
+      "tag": "A",
+      "type": null,
+      "index": 28,
+      "parent": "1.240",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.188": {
+      "i": 148,
+      "tag": "A",
+      "type": null,
+      "index": 30,
+      "parent": "1.186",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.191": {
+      "i": 151,
+      "tag": "A",
+      "type": null,
+      "index": 1,
+      "parent": "1.189",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.203": {
+      "i": 159,
+      "tag": "A",
+      "type": null,
+      "index": 38,
+      "parent": "1.194",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.201": {
+      "i": 160,
+      "tag": "E",
+      "type": null,
+      "index": 1,
+      "parent": "1.200",
+      "is_own_head": true
+    },
+    "1.209": {
+      "i": 178,
+      "tag": "A",
+      "type": null,
+      "index": 39,
+      "parent": "1.223",
+      "require_annotation": true,
+      "is_head_of_parent": true,
+      "is_own_head": true
+    },
+    "1.221": {
+      "i": 179,
+      "tag": "A",
+      "type": null,
+      "index": 41,
+      "parent": "1.223",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.223": {
+      "i": 176,
+      "tag": "Scene",
+      "type": "S",
+      "index": 37,
+      "is_own_head": true
+    },
+    "1.202": {
+      "i": 177,
+      "tag": "A",
+      "type": null,
+      "index": 30,
+      "parent": "1.223",
+      "require_annotation": true,
+      "is_head_of_parent": true,
+      "is_own_head": true
+    },
+    "1.224": {
+      "i": 244,
+      "tag": "A",
+      "type": null,
+      "index": 1,
+      "parent": "1.313",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.234": {
+      "i": 189,
+      "tag": "A",
+      "type": null,
+      "index": 44,
+      "parent": "1.231",
+      "require_annotation": true,
+      "is_head_of_parent": true,
+      "is_own_head": true
+    },
+    "1.256": {
+      "i": 204,
+      "tag": "E",
+      "type": null,
+      "index": 1,
+      "parent": "1.255",
+      "is_own_head": true
+    },
+    "1.270": {
+      "i": 214,
+      "tag": "E",
+      "type": null,
+      "index": 1,
+      "parent": "1.269",
+      "is_own_head": true
+    },
+    "1.295": {
+      "i": 220,
+      "tag": "A",
+      "type": null,
+      "index": 30,
+      "parent": "1.278",
+      "require_annotation": true,
+      "is_own_head": true,
+      "is_head_of_parent": true
+    },
+    "1.286": {
+      "i": 224,
+      "tag": "A",
+      "type": null,
+      "index": 46,
+      "parent": "1.290",
+      "require_annotation": true,
+      "is_head_of_parent": true,
+      "is_own_head": true
+    },
+    "1.294": {
+      "i": 228,
+      "tag": "E",
+      "type": null,
+      "index": 1,
+      "parent": "1.292",
+      "is_own_head": true
+    },
+    "1.298": {
+      "i": 229,
+      "tag": "A",
+      "type": null,
+      "index": 62,
+      "parent": "1.297",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.309": {
+      "i": 239,
+      "tag": "A",
+      "type": null,
+      "index": 1,
+      "parent": "1.307",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.324": {
+      "i": 253,
+      "tag": "A",
+      "type": null,
+      "index": 28,
+      "parent": "1.319",
+      "require_annotation": true,
+      "is_head_of_parent": true,
+      "is_own_head": true
+    },
+    "1.321": {
+      "i": 254,
+      "tag": "A",
+      "type": null,
+      "index": 1,
+      "parent": "1.320",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.348": {
+      "i": 271,
+      "tag": "Scene",
+      "type": "S",
+      "index": 60,
+      "is_own_head": true
+    },
+    "1.349": {
+      "i": 272,
+      "tag": "A",
+      "type": null,
+      "index": 61,
+      "parent": "1.348",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.362": {
+      "i": 278,
+      "tag": "A",
+      "type": null,
+      "index": 64,
+      "parent": "1.354",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.368": {
+      "i": 282,
+      "tag": "Scene",
+      "type": "S",
+      "index": 65,
+      "is_own_head": true
+    },
+    "1.370": {
+      "i": 284,
+      "tag": "A",
+      "type": null,
+      "index": 66,
+      "parent": "1.368",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.379": {
+      "i": 290,
+      "tag": "A",
+      "type": null,
+      "index": 1,
+      "parent": "1.378",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.388": {
+      "i": 301,
+      "tag": "A",
+      "type": null,
+      "index": 1,
+      "parent": "1.389",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.384": {
+      "i": 298,
+      "tag": "A",
+      "type": null,
+      "index": 1,
+      "parent": "1.383",
+      "require_annotation": true,
+      "is_own_head": true
+    },
+    "1.204": {
+      "i": 185,
+      "tag": "C",
+      "type": null,
+      "index": 39,
+      "parent": "1.203",
+      "nested": true,
+      "head": "1.209",
+      "is_own_head": true
+    },
+    "1.211": {
+      "i": 186,
+      "tag": "C",
+      "type": null,
+      "index": 41,
+      "parent": "1.203",
+      "nested": true,
+      "is_own_head": true
+    },
+    "1.6": {
+      "i": 280,
+      "tag": "Scene",
+      "type": "S",
+      "index": 0,
+      "head": "1.6",
+      "parent": "1.2",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.11": {
+      "i": 280,
+      "tag": "Scene",
+      "type": "S",
+      "index": 3,
+      "head": "1.11",
+      "parent": "1.7",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.16": {
+      "i": 281,
+      "tag": "Scene",
+      "type": "S",
+      "index": 5,
+      "head": "1.16",
+      "parent": "1.15",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.44": {
+      "i": 282,
+      "tag": "Scene",
+      "type": "S",
+      "index": 8,
+      "head": "1.44",
+      "parent": "1.37",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.47": {
+      "i": 283,
+      "tag": "Scene",
+      "type": "S",
+      "index": 9,
+      "head": "1.47",
+      "parent": "1.45",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.56": {
+      "i": 283,
+      "tag": "D",
+      "type": null,
+      "index": 11,
+      "parent": "1.49",
+      "head": "1.56",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.60": {
+      "i": 284,
+      "tag": "Scene",
+      "type": "S",
+      "index": 10,
+      "head": "1.60",
+      "parent": "1.48",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.72": {
+      "i": 284,
+      "tag": "A",
+      "type": null,
+      "index": 2,
+      "parent": "1.68",
+      "require_annotation": false,
+      "head": "1.72",
+      "is_head_of_parent": true
+    },
+    "1.74": {
+      "i": 285,
+      "tag": "Scene",
+      "type": "S",
+      "index": 12,
+      "head": "1.74",
+      "parent": "1.62",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.71": {
+      "i": 286,
+      "tag": "Scene",
+      "type": "S",
+      "index": 0,
+      "head": "1.71",
+      "parent": "1.70",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.79": {
+      "i": 287,
+      "tag": "Scene",
+      "type": "S",
+      "index": 13,
+      "head": "1.79",
+      "parent": "1.77",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.83": {
+      "i": 288,
+      "tag": "Scene",
+      "type": "S",
+      "index": 14,
+      "head": "1.83",
+      "parent": "1.81",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.85": {
+      "i": 289,
+      "tag": "Scene",
+      "type": "S",
+      "index": 15,
+      "head": "1.85",
+      "parent": "1.80",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.106": {
+      "i": 290,
+      "tag": "Scene",
+      "type": "S",
+      "index": 16,
+      "head": "1.106",
+      "parent": "1.87",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.111": {
+      "i": 291,
+      "tag": "Scene",
+      "type": "S",
+      "index": 21,
+      "head": "1.111",
+      "parent": "1.107",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.92": {
+      "i": 292,
+      "tag": "A",
+      "type": "S",
+      "parent": "1.89",
+      "is_own_head": true,
+      "head": "1.92",
+      "require_annotation": false,
+      "index": 70,
+      "is_head_of_parent": true
+    },
+    "1.97": {
+      "i": 292,
+      "tag": "Scene",
+      "type": "S",
+      "index": 9,
+      "head": "1.97",
+      "parent": "1.93",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.101": {
+      "i": 293,
+      "tag": "A",
+      "type": "S",
+      "parent": "1.100",
+      "is_own_head": true,
+      "head": "1.101",
+      "require_annotation": false,
+      "index": 70,
+      "is_head_of_parent": true
+    },
+    "1.104": {
+      "i": 293,
+      "tag": "A",
+      "type": null,
+      "index": 20,
+      "parent": "1.102",
+      "require_annotation": false,
+      "head": "1.104",
+      "is_head_of_parent": true
+    },
+    "1.113": {
+      "i": 294,
+      "tag": "Scene",
+      "type": "S",
+      "index": 22,
+      "head": "1.113",
+      "parent": "1.112",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.115": {
+      "i": 295,
+      "tag": "Scene",
+      "type": "S",
+      "index": 23,
+      "head": "1.115",
+      "parent": "1.114",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.128": {
+      "i": 296,
+      "tag": "Scene",
+      "type": "S",
+      "index": 6,
+      "head": "1.128",
+      "parent": "1.117",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.130": {
+      "i": 297,
+      "tag": "Scene",
+      "type": "S",
+      "index": 24,
+      "head": "1.130",
+      "parent": "1.129",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.143": {
+      "i": 298,
+      "tag": "Scene",
+      "type": "S",
+      "index": 27,
+      "head": "1.143",
+      "parent": "1.138",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.149": {
+      "i": 299,
+      "tag": "Scene",
+      "type": "S",
+      "index": 24,
+      "head": "1.149",
+      "parent": "1.148",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.152": {
+      "i": 299,
+      "tag": "A",
+      "type": null,
+      "index": 30,
+      "parent": "1.150",
+      "require_annotation": false,
+      "head": "1.152",
+      "is_head_of_parent": true
+    },
+    "1.155": {
+      "i": 300,
+      "tag": "Scene",
+      "type": "S",
+      "index": 24,
+      "head": "1.155",
+      "parent": "1.154",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.164": {
+      "i": 301,
+      "tag": "Scene",
+      "type": "S",
+      "index": 6,
+      "head": "1.164",
+      "parent": "1.156",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.168": {
+      "i": 302,
+      "tag": "Scene",
+      "type": "S",
+      "index": 31,
+      "head": "1.168",
+      "parent": "1.166",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.172": {
+      "i": 302,
+      "tag": "Scene",
+      "type": "S",
+      "index": 5,
+      "head": "1.172",
+      "parent": "1.169",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.175": {
+      "i": 303,
+      "tag": "Scene",
+      "type": "S",
+      "index": 32,
+      "head": "1.175",
+      "parent": "1.174",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.178": {
+      "i": 303,
+      "tag": "A",
+      "type": null,
+      "index": 33,
+      "parent": "1.176",
+      "require_annotation": false,
+      "head": "1.178",
+      "is_head_of_parent": true
+    },
+    "1.181": {
+      "i": 304,
+      "tag": "Scene",
+      "type": "S",
+      "index": 34,
+      "head": "1.181",
+      "parent": "1.180",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.184": {
+      "i": 305,
+      "tag": "Scene",
+      "type": "S",
+      "index": 35,
+      "head": "1.184",
+      "parent": "1.182",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.187": {
+      "i": 306,
+      "tag": "Scene",
+      "type": "S",
+      "index": 36,
+      "head": "1.187",
+      "parent": "1.186",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.199": {
+      "i": 307,
+      "tag": "Scene",
+      "type": "S",
+      "index": 37,
+      "head": "1.199",
+      "parent": "1.194",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.214": {
+      "i": 328,
+      "tag": "C",
+      "type": null,
+      "parent": "1.211",
+      "is_own_head": true,
+      "index": 71
+    },
+    "1.217": {
+      "i": 328,
+      "tag": "C",
+      "type": null,
+      "parent": "1.211",
+      "is_own_head": true,
+      "index": 72
+    },
+    "1.228": {
+      "i": 308,
+      "tag": "Scene",
+      "type": "S",
+      "index": 43,
+      "head": "1.228",
+      "parent": "1.227",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.239": {
+      "i": 308,
+      "tag": "Scene",
+      "type": "S",
+      "index": 46,
+      "head": "1.239",
+      "parent": "1.236",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.244": {
+      "i": 308,
+      "tag": "Scene",
+      "type": "S",
+      "index": 35,
+      "head": "1.244",
+      "parent": "1.240",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.252": {
+      "i": 308,
+      "tag": "A",
+      "type": null,
+      "index": 48,
+      "parent": "1.250",
+      "require_annotation": false,
+      "head": "1.252",
+      "is_head_of_parent": true
+    },
+    "1.254": {
+      "i": 309,
+      "tag": "Scene",
+      "type": "S",
+      "index": 47,
+      "head": "1.254",
+      "parent": "1.249",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.258": {
+      "i": 309,
+      "tag": "A",
+      "type": null,
+      "index": 49,
+      "parent": "1.255",
+      "require_annotation": false,
+      "head": "1.258",
+      "is_head_of_parent": true
+    },
+    "1.264": {
+      "i": 310,
+      "tag": "Scene",
+      "type": "S",
+      "index": 50,
+      "head": "1.264",
+      "parent": "1.259",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.268": {
+      "i": 311,
+      "tag": "Scene",
+      "type": "S",
+      "index": 37,
+      "head": "1.268",
+      "parent": "1.267",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.277": {
+      "i": 312,
+      "tag": "Scene",
+      "type": "S",
+      "index": 51,
+      "head": "1.277",
+      "parent": "1.266",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.271": {
+      "i": 312,
+      "tag": "A",
+      "type": null,
+      "index": 30,
+      "parent": "1.269",
+      "require_annotation": false,
+      "head": "1.271",
+      "is_head_of_parent": true
+    },
+    "1.275": {
+      "i": 312,
+      "tag": "A",
+      "type": null,
+      "index": 41,
+      "parent": "1.272",
+      "require_annotation": false,
+      "head": "1.275",
+      "is_head_of_parent": true
+    },
+    "1.288": {
+      "i": 313,
+      "tag": "Scene",
+      "type": "S",
+      "index": 52,
+      "head": "1.288",
+      "parent": "1.278",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.291": {
+      "i": 314,
+      "tag": "Scene",
+      "type": "S",
+      "index": 53,
+      "head": "1.291",
+      "parent": "1.290",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.299": {
+      "i": 315,
+      "tag": "Scene",
+      "type": "S",
+      "index": 54,
+      "head": "1.299",
+      "parent": "1.297",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.303": {
+      "i": 315,
+      "tag": "A",
+      "type": null,
+      "index": 62,
+      "parent": "1.300",
+      "require_annotation": false,
+      "head": "1.303",
+      "is_head_of_parent": true
+    },
+    "1.306": {
+      "i": 316,
+      "tag": "Scene",
+      "type": "S",
+      "index": 55,
+      "head": "1.306",
+      "parent": "1.304",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.310": {
+      "i": 317,
+      "tag": "Scene",
+      "type": "S",
+      "index": 21,
+      "head": "1.310",
+      "parent": "1.307",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.312": {
+      "i": 318,
+      "tag": "Scene",
+      "type": "S",
+      "index": 56,
+      "head": "1.312",
+      "parent": "1.311",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.315": {
+      "i": 319,
+      "tag": "Scene",
+      "type": "S",
+      "index": 57,
+      "head": "1.315",
+      "parent": "1.313",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.327": {
+      "i": 320,
+      "tag": "Scene",
+      "type": "S",
+      "index": 35,
+      "head": "1.327",
+      "parent": "1.317",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.323": {
+      "i": 321,
+      "tag": "Scene",
+      "type": "S",
+      "index": 29,
+      "head": "1.323",
+      "parent": "1.319",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.335": {
+      "i": 322,
+      "tag": "Scene",
+      "type": "S",
+      "index": 60,
+      "head": "1.335",
+      "parent": "1.329",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.338": {
+      "i": 323,
+      "tag": "Scene",
+      "type": "S",
+      "index": 59,
+      "head": "1.338",
+      "parent": "1.328",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.332": {
+      "i": 323,
+      "tag": "A",
+      "type": null,
+      "index": 61,
+      "parent": "1.330",
+      "require_annotation": false,
+      "head": "1.332",
+      "is_head_of_parent": true
+    },
+    "1.347": {
+      "i": 323,
+      "tag": "A",
+      "type": null,
+      "index": 28,
+      "parent": "1.340",
+      "require_annotation": false,
+      "head": "1.347",
+      "is_head_of_parent": true
+    },
+    "1.353": {
+      "i": 324,
+      "tag": "Scene",
+      "type": "S",
+      "index": 63,
+      "head": "1.353",
+      "parent": "1.339",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.358": {
+      "i": 324,
+      "tag": "A",
+      "type": null,
+      "index": 28,
+      "parent": "1.356",
+      "require_annotation": false,
+      "head": "1.358",
+      "is_head_of_parent": true
+    },
+    "1.361": {
+      "i": 325,
+      "tag": "Scene",
+      "type": "S",
+      "index": 65,
+      "head": "1.361",
+      "parent": "1.354",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.364": {
+      "i": 325,
+      "tag": "A",
+      "type": null,
+      "parent": "1.362",
+      "is_own_head": true,
+      "index": 73
+    },
+    "1.367": {
+      "i": 325,
+      "tag": "A",
+      "type": null,
+      "parent": "1.362",
+      "is_own_head": true,
+      "index": 74
+    },
+    "1.374": {
+      "i": 325,
+      "tag": "A",
+      "type": null,
+      "parent": "1.370",
+      "is_own_head": true,
+      "index": 75
+    },
+    "1.376": {
+      "i": 325,
+      "tag": "A",
+      "type": null,
+      "parent": "1.370",
+      "is_own_head": true,
+      "index": 76
+    },
+    "1.381": {
+      "i": 326,
+      "tag": "Scene",
+      "type": "S",
+      "index": 67,
+      "head": "1.381",
+      "parent": "1.378",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.387": {
+      "i": 327,
+      "tag": "Scene",
+      "type": "S",
+      "index": 68,
+      "head": "1.387",
+      "parent": "1.382",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    },
+    "1.391": {
+      "i": 328,
+      "tag": "Scene",
+      "type": "S",
+      "index": 69,
+      "head": "1.391",
+      "parent": "1.389",
+      "require_annotation": false,
+      "is_head_of_parent": true
+    }
+  },
+  "referents": {
+    "0": [
+      "1.6",
+      "1.71"
+    ],
+    "1": [
+      "1.103",
+      "1.109",
+      "1.151",
+      "1.191",
+      "1.195",
+      "1.201",
+      "1.224",
+      "1.256",
+      "1.270",
+      "1.294",
+      "1.309",
+      "1.321",
+      "1.379",
+      "1.384",
+      "1.388",
+      "1.39",
+      "1.46"
+    ],
+    "2": [
+      "1.4",
+      "1.76",
+      "1.72"
+    ],
+    "3": [
+      "1.11"
+    ],
+    "4": [
+      "1.126",
+      "1.13",
+      "1.158",
+      "1.34"
+    ],
+    "5": [
+      "1.167",
+      "1.16",
+      "1.172"
+    ],
+    "6": [
+      "1.36",
+      "1.57",
+      "1.67",
+      "1.128",
+      "1.164"
+    ],
+    "7": [
+      "1.44"
+    ],
+    "8": [
+      "1.47",
+      "1.97"
+    ],
+    "9": [
+      "1.60"
+    ],
+    "10": [
+      "1.56"
+    ],
+    "11": [
+      "1.74"
+    ],
+    "12": [
+      "1.82",
+      "1.79"
+    ],
+    "13": [
+      "1.83"
+    ],
+    "14": [
+      "1.85"
+    ],
+    "15": [
+      "1.106"
+    ],
+    "16": [
+      "1.88"
+    ],
+    "17": [
+      "1.104"
+    ],
+    "18": [
+      "1.111",
+      "1.310"
+    ],
+    "19": [
+      "1.113"
+    ],
+    "20": [
+      "1.115"
+    ],
+    "21": [
+      "1.130",
+      "1.149",
+      "1.155"
+    ],
+    "22": [
+      "1.139",
+      "1.136"
+    ],
+    "23": [
+      "1.143"
+    ],
+    "24": [
+      "1.147",
+      "1.245",
+      "1.324",
+      "1.347",
+      "1.358"
+    ],
+    "25": [
+      "1.323"
+    ],
+    "26": [
+      "1.188",
+      "1.202",
+      "1.295",
+      "1.152",
+      "1.271"
+    ],
+    "27": [
+      "1.168"
+    ],
+    "28": [
+      "1.175"
+    ],
+    "29": [
+      "1.178"
+    ],
+    "30": [
+      "1.181"
+    ],
+    "31": [
+      "1.184",
+      "1.244",
+      "1.327"
+    ],
+    "32": [
+      "1.187"
+    ],
+    "33": [
+      "1.223",
+      "1.199",
+      "1.268"
+    ],
+    "34": [
+      "1.203"
+    ],
+    "35": [
+      "1.204",
+      "1.209"
+    ],
+    "36": [
+      "1.211",
+      "1.221",
+      "1.275"
+    ],
+    "37": [
+      "1.228"
+    ],
+    "38": [
+      "1.234"
+    ],
+    "39": [
+      "1.286",
+      "1.239"
+    ],
+    "40": [
+      "1.254"
+    ],
+    "41": [
+      "1.252"
+    ],
+    "42": [
+      "1.258"
+    ],
+    "43": [
+      "1.264"
+    ],
+    "44": [
+      "1.277"
+    ],
+    "45": [
+      "1.288"
+    ],
+    "46": [
+      "1.291"
+    ],
+    "47": [
+      "1.299"
+    ],
+    "48": [
+      "1.306"
+    ],
+    "49": [
+      "1.312"
+    ],
+    "50": [
+      "1.315"
+    ],
+    "51": [
+      "1.338"
+    ],
+    "52": [
+      "1.348",
+      "1.335"
+    ],
+    "53": [
+      "1.349",
+      "1.332"
+    ],
+    "54": [
+      "1.298",
+      "1.303"
+    ],
+    "55": [
+      "1.353"
+    ],
+    "56": [
+      "1.362"
+    ],
+    "57": [
+      "1.368",
+      "1.361"
+    ],
+    "58": [
+      "1.370"
+    ],
+    "59": [
+      "1.381"
+    ],
+    "60": [
+      "1.387"
+    ],
+    "61": [
+      "1.391"
+    ],
+    "62": [
+      "1.89",
+      "1.100",
+      "1.92",
+      "1.101"
+    ],
+    "63": [
+      "1.214"
+    ],
+    "64": [
+      "1.217"
+    ],
+    "65": [
+      "1.364"
+    ],
+    "66": [
+      "1.367"
+    ],
+    "67": [
+      "1.374"
+    ],
+    "68": [
+      "1.376"
+    ]
+  }
+}
